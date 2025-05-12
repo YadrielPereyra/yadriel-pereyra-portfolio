@@ -121,3 +121,19 @@ footer {
   padding: 20px;
   margin-top: 40px;
 }
+#contact {
+  padding: 40px 20px;
+  text-align: center;
+  background-color: #f0f0f0;
+  color: #333;
+}
+
+#contact h2 {
+  font-size: 2rem;
+  margin-bottom: 10px;
+}
+
+#contact a {
+  color: #3366cc;
+  font-weight: bold;
+}
