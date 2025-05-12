@@ -27,3 +27,22 @@ footer {
   margin: 5px;
   height: 40px;
 }
+#contact {
+  background-color: #f4f4f4;
+  padding: 40px 20px;
+  text-align: center;
+  border-top: 1px solid #ccc;
+}
+
+#contact h2 {
+  margin-bottom: 10px;
+}
+
+#contact a {
+  color: #3366cc;
+  text-decoration: none;
+}
+
+#contact a:hover {
+  text-decoration: underline;
+}
