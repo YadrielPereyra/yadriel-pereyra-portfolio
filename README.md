@@ -25,8 +25,3 @@ It showcases my journey into software engineering, featuring my projects, skills
 - [To-Do List Web App](https://github.com/YadrielPereyra/todo-app)
 - [Calculator Web App](https://github.com/YadrielPereyra/calculator-app)
 - [Weather App](https://github.com/YadrielPereyra/weather-app)
-
-## Setup Instructions (Optional)
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/YadrielPereyra/yadriel-pereyra-portfolio.git
