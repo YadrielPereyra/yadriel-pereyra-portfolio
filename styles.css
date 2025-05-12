@@ -34,19 +34,6 @@ header p {
   font-size: 1.2rem;
 }
 
-/* Navigation (if you add one later) */
-nav {
-  text-align: center;
-  padding: 10px;
-  background: #1a252f;
-}
-
-nav a {
-  margin: 0 15px;
-  color: #fff;
-  font-weight: bold;
-}
-
 /* About Section */
 #about {
   padding: 40px 20px;
@@ -64,6 +51,19 @@ nav a {
 #about h2 {
   font-size: 2rem;
   margin-bottom: 10px;
+}
+
+/* Certifications Section */
+#certifications {
+  padding: 40px 20px;
+  background-color: #fff;
+}
+
+#certifications ul {
+  list-style: disc;
+  text-align: left;
+  max-width: 500px;
+  margin: 0 auto;
 }
 
 /* Projects Section */
@@ -113,14 +113,19 @@ nav a {
   pointer-events: none;
 }
 
-/* Footer */
-footer {
-  background-color: #2c3e50;
-  color: #fff;
+/* Skills Section */
+#skills {
+  padding: 40px 20px;
   text-align: center;
-  padding: 20px;
-  margin-top: 40px;
+  background-color: #ffffff;
 }
+
+.badges img {
+  margin: 5px;
+  height: 40px;
+}
+
+/* Contact Section */
 #contact {
   padding: 40px 20px;
   text-align: center;
@@ -136,4 +141,13 @@ footer {
 #contact a {
   color: #3366cc;
   font-weight: bold;
+}
+
+/* Footer */
+footer {
+  background-color: #2c3e50;
+  color: #fff;
+  text-align: center;
+  padding: 20px;
+  margin-top: 40px;
 }
